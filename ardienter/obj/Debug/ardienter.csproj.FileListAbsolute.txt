@@ -1,0 +1,23 @@
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.AssemblyReference.cache
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.Form1.resources
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.Form2.resources
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.Properties.Resources.resources
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.GenerateResource.cache
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.CoreCompileInputs.cache
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\bin\Debug\ardienter.exe.config
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\bin\Debug\ardienter.exe
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\bin\Debug\ardienter.pdb
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.exe
+C:\Users\Kisha\Desktop\SCHOOL\C# Activities\Grocery Discount Calculator\ArdienteCapital\ardienter\obj\Debug\ardienter.pdb
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\bin\Debug\ardienter.exe.config
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\bin\Debug\ardienter.exe
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\bin\Debug\ardienter.pdb
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.AssemblyReference.cache
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Ardiente.resources
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Form2.resources
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Properties.Resources.resources
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.GenerateResource.cache
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.exe
+C:\Users\Personal\Source\Repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.pdb
+C:\Users\Personal\source\repos\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Form3.resources
